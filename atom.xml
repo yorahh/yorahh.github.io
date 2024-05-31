@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yoran.cc</id>
     <title>悠然</title>
-    <updated>2024-05-31T04:56:23.919Z</updated>
+    <updated>2024-05-31T05:00:59.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.yoran.cc"/>
     <link rel="self" href="https://www.yoran.cc/atom.xml"/>
-    <subtitle>悠然见南山</subtitle>
+    <subtitle>悠然的成长日记</subtitle>
     <logo>https://www.yoran.cc/images/avatar.png</logo>
     <icon>https://www.yoran.cc/favicon.ico</icon>
     <rights>All rights reserved 2024, 悠然</rights>
@@ -35,11 +35,13 @@
         <link href="https://www.yoran.cc/qinghuaci/">
         </link>
         <updated>2024-03-16T03:58:52.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://www.yoran.cc/post-images/1717129943973.jpg" alt="" loading="lazy"><br>
-这是我第一次上艺术课的作品😄</p>
+        <summary type="html"><![CDATA[<p>我生长在在一个有着浓厚历史底蕴的国家<br>
+这个国家的国宝之一就是青花瓷<br>
+今天我们老师就带领我们制作了自己的青花瓷</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://www.yoran.cc/post-images/1717129943973.jpg" alt="" loading="lazy"><br>
-这是我第一次上艺术课的作品😄</p>
+        <content type="html"><![CDATA[<p>我生长在在一个有着浓厚历史底蕴的国家<br>
+这个国家的国宝之一就是青花瓷<br>
+今天我们老师就带领我们制作了自己的青花瓷</p>
 ]]></content>
     </entry>
     <entry>
